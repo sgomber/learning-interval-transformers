@@ -8,3 +8,8 @@ the following commands to fetch it once you clone this repository:
 git submodule init
 git submodule update
 ```
+
+2. Run:
+```
+pip install -r requirements.txt
+```
